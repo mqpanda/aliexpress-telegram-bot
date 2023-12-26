@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "geocoder": "^0.2.3",
+    "geolib": "^3.3.4",
+    "googleplaces": "^0.6.1",
+    "node-cron": "^3.0.3",
+    "node-geocoder": "^4.2.0",
+    "node-geolocation": "^1.15.14",
+    "node-telegram-bot-api": "^0.64.0",
+    "puppeteer": "^21.6.1",
+    "telegraf": "^4.15.3"
+  }
+}
